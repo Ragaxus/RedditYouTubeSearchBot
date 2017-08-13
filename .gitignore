@@ -1,1 +1,3 @@
 "*.pyc" 
+praw.ini
+youtubeAPIconfig.py
